@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ibrahima/Documents/FILES/java - internet et UAHB - Stic3 - M Niass/jre1.8.0_162/lib/charsets - Copie.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ibrahima/Documents/FILES/java - internet et UAHB - Stic3 - M Niass/jre1.8.0_162/lib/charsets.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ibrahima/Documents/FILES/java - internet et UAHB - Stic3 - M Niass/jre1.8.0_162/lib/deploy - Copie.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ibrahima/Documents/FILES/java - internet et UAHB - Stic3 - M Niass/jre1.8.0_162/lib/deploy.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ibrahima/Documents/FILES/java - internet et UAHB - Stic3 - M Niass/jre1.8.0_162/lib/javaws.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ibrahima/Documents/FILES/java - internet et UAHB - Stic3 - M Niass/jre1.8.0_162/lib/jce.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ibrahima/Documents/FILES/java - internet et UAHB - Stic3 - M Niass/jre1.8.0_162/lib/jfr.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ibrahima/Documents/FILES/java - internet et UAHB - Stic3 - M Niass/jre1.8.0_162/lib/jfxswt.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ibrahima/Documents/FILES/java - internet et UAHB - Stic3 - M Niass/jre1.8.0_162/lib/jsse.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ibrahima/Documents/FILES/java - internet et UAHB - Stic3 - M Niass/jre1.8.0_162/lib/management-agent.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ibrahima/Documents/FILES/java - internet et UAHB - Stic3 - M Niass/jre1.8.0_162/lib/plugin.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ibrahima/Documents/FILES/java - internet et UAHB - Stic3 - M Niass/jre1.8.0_162/lib/resources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ibrahima/Documents/FILES/java - internet et UAHB - Stic3 - M Niass/jre1.8.0_162/lib/rt.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ibrahima/Documents/FILES/java - internet et UAHB - Stic3 - M Niass/mysql-connector-java-5.1.46.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ibrahima/Documents/FILES/PERSO/Dev/jdk-11.0.3_windows-x64_bin.exe"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files (x86)/Java/jdk-1.8.0_191/lib/jrt-fs.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jdk-14.0.1_windows-x64_bin.exe"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/java-runtime-environment_10-0-2_fr_121472_64.exe"/>
+	<classpathentry kind="lib" path="C:/Users/ibrahima/Downloads/jdk-8u251-windows-i586.exe"/>
+	<classpathentry kind="lib" path="C:/Users/ibrahima/Downloads/javafx-sdk-18.0.1/lib/javafx.base.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ibrahima/Downloads/javafx-sdk-18.0.1/lib/javafx.controls.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ibrahima/Downloads/javafx-sdk-18.0.1/lib/javafx.fxml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ibrahima/Downloads/javafx-sdk-18.0.1/lib/javafx.graphics.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ibrahima/Downloads/javafx-sdk-18.0.1/lib/javafx.media.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ibrahima/Downloads/javafx-sdk-18.0.1/lib/javafx.swing.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ibrahima/Downloads/javafx-sdk-18.0.1/lib/javafx.web.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ibrahima/Downloads/javafx-sdk-18.0.1/lib/javafx-swt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ibrahima/Downloads/javafx-sdk-18.0.1/src.zip"/>
+	<classpathentry kind="lib" path="C:/Users/ibrahima/Downloads/javafx-jmods-18.0.1/javafx.base.jmod"/>
+	<classpathentry kind="lib" path="C:/Users/ibrahima/Downloads/javafx-jmods-18.0.1/javafx.controls.jmod"/>
+	<classpathentry kind="lib" path="C:/Users/ibrahima/Downloads/javafx-jmods-18.0.1/javafx.fxml.jmod"/>
+	<classpathentry kind="lib" path="C:/Users/ibrahima/Downloads/javafx-jmods-18.0.1/javafx.graphics.jmod"/>
+	<classpathentry kind="lib" path="C:/Users/ibrahima/Downloads/javafx-jmods-18.0.1/javafx.media.jmod"/>
+	<classpathentry kind="lib" path="C:/Users/ibrahima/Downloads/javafx-jmods-18.0.1/javafx.swing.jmod"/>
+	<classpathentry kind="lib" path="C:/Users/ibrahima/Downloads/javafx-jmods-18.0.1/javafx.web.jmod"/>
+	<classpathentry kind="lib" path="C:/Users/ibrahima/Downloads/javafx-sdk-11/lib/javafx.base.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ibrahima/Downloads/javafx-sdk-11/lib/javafx.controls.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ibrahima/Downloads/javafx-sdk-11/lib/javafx.fxml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ibrahima/Downloads/javafx-sdk-11/lib/javafx.graphics.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ibrahima/Downloads/javafx-sdk-11/lib/javafx.media.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ibrahima/Downloads/javafx-sdk-11/lib/javafx.properties"/>
+	<classpathentry kind="lib" path="C:/Users/ibrahima/Downloads/javafx-sdk-11/lib/javafx.swing.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ibrahima/Downloads/javafx-sdk-11/lib/javafx.web.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ibrahima/Downloads/javafx-sdk-11/lib/javafx-swt.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

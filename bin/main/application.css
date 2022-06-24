@@ -1,0 +1,17 @@
+/* JaaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.button:hover
+{
+	-fx-background-color:214460;
+}
+
+
+.button {
+    -fx-background-color: #244060;
+    -fx-border-color: #419060;
+    -fx-text-fill:white;
+    -fx-pref-width: 250px;
+    -fx-font-family:arial;
+    -fx-font-size:17px;
+    -fx-pref-height: 40px;
+}

@@ -1,0 +1,26 @@
+Le projet Geschool permet d' enregidter les inscriptions
+ et les mensualités avec possibilité de payer en partiel.
+ 
+ 
+ Le projet :
+ 
+   Le projet comporte quatre dossiers ou packages : database, entity,main et view.
+   
+   - Le package nommé database contient des classes qui permettent de communiquer avec la base de données geschool.
+   
+   - Le package nommé entity comporte des javabeans qui sont des classes qui sont plus faciles à manipuler dans 
+     l' affichage de leurs données dans les tableaux. Les javabeans permettent aussi une simple utilisation avec la base de données, 
+     en ce qui concerne les requêtes de base de données. Les classes crées sont au nombre de trois : classe.java qui représente une classe dans une école,
+     Mensuality.java qui représente une facture et Student. java qui représente un élève avec toutes ses propriétés.
+     
+   - Le package view qui contient les éléments d'interface graphique d'interraction avec l'utilisateur.
+    
+   - Le package main : la classe principale de démarrage de l' application.
+   
+   
+   Le tout forme un système fonctionnel et assez complexe.
+   
+   
+   LE TEST EST REUSSI.
+   
+   NB : L' application est faite pour fonctioner avec eclipse et xampp, sans RMI.
